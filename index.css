@@ -1,5 +1,6 @@
 p
 {
     color: palevioletred;
-    background-color: azure;
+    background-color: azure; 
+    text-transform: capitalize;
 }
